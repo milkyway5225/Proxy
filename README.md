@@ -1,5 +1,6 @@
 # Proxy
 Proxy client using Python.
+Прокси-клиент, использующий Python.
 
 English:
 A simple code snippet that launches a personal proxy client on your machine.
