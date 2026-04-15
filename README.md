@@ -1,5 +1,5 @@
 # Proxy
-Proxy client using Python.
+Proxy client using Python.\
 Прокси-клиент, использующий Python.
 
 English:
